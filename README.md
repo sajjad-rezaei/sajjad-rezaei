@@ -1,24 +1,36 @@
-[![Header]( "Header")](https://sjrz.ir/)
+[![Header](http://chipsetmag.com/wp-content/uploads/elementor/thumbs/programming-p8lqfnv4dfccx0e5x9cj6tc4buxnq0derd4i6f1pv4.gif "Header")](https://sjrz.ir/)
 
-# Hello, dudes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello <img src="https://github.com/sajjad-rezaei/sajjad-rezaei/raw/main/wave.gif" width="30px">, WELCOME To My Page
 
-My name is sajjad Rezaei and I'm a software developer/engineer. I like working with new tools and solving problems.
+My name is Sajjad Rezaei and I'm a software developer/engineer. I like working with new tools and solving problems.
 
 I also like teaching and sharing my experience. so feel free to contact me if I can help you with something.
 
 ## 🛠 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+
+
+
+
+![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitlabCI-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
 
 
 ## &#x1f4c8; GitHub Stats
@@ -34,22 +46,10 @@ I also like teaching and sharing my experience. so feel free to contact me if I 
 </div>
 
 
+### 💬 &nbsp;Be In Touch With Me
 
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+<a href="https://sjrz.ir"><img src="https://img.shields.io/badge/-sjrz.ir-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sajjad-rezaei"><img src="https://img.shields.io/badge/-Sajjad%20Rezaei-informational?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hi@sajjad.rezaee.73@gmail.com"><img src="https://img.shields.io/badge/-sajjad.rezaee.73@gmail.com-inactive?style=flat&logo=maildotru&logoColor=white"/></a>
 
 
