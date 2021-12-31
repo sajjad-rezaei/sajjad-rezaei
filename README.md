@@ -1,4 +1,4 @@
-[![Header](http://chipsetmag.com/wp-content/uploads/elementor/thumbs/programming-p8lqfnv4dfccx0e5x9cj6tc4buxnq0derd4i6f1pv4.gif "Header")](https://sjrz.ir/)
+
 
 # Hello <img src="https://github.com/sajjad-rezaei/sajjad-rezaei/raw/main/wave.gif" width="30px">, WELCOME To My Page
 
