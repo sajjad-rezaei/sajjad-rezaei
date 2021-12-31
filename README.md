@@ -39,8 +39,8 @@ I also like teaching and sharing my experience. so feel free to contact me if I 
 
 <div align="center">
   <a href="https://github.com/sajjad-rezaei/sajjad-rezaei">
-      <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-rezaei&hide=css,html&langs_count=10&layout=compact&theme=monokai&custom_title=Programming Languages" />
-     <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=sajjad-rezaei&show_icons=true&count_private=true&theme=monokai&include_all_commits=true&custom_title=Github Satistics" alt="Github Satistics" />
+      <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-rezaei&hide=css,html&langs_count=10&layout=compact&theme=monokai&custom_title=Programming Languages" />
+     <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=sajjad-rezaei&show_icons=true&count_private=true&theme=monokai&include_all_commits=true&custom_title=Github Satistics" alt="Github Satistics" />
     
   </a>
 </div>
